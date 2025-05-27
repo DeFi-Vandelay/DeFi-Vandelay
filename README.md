@@ -9,7 +9,7 @@ Welcome to my Github profile! Here you'll find a variety of open-source projects
 *   🌍  I'm based in Sydney, Australia
 *   🖥️  See my portfolio at [Developer Portfolio](http://arthurvandelay.dev)
 *   ✉️  You can contact me at [info@arthurvandelay.dev](mailto:info@arthurvandelay.dev)
-*   🤝  I'm open to collaborating on web3 projects
+*   🤝  Need help with a web3 projects // check out [Vandelay Technologies](https://www.vandelaytechnologies.io)
 
 ###  Skills 
 <p align="left">
