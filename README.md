@@ -4,12 +4,12 @@ Vandelay (DFB)
 Developer | Economist | Investor
 ----------------------------------
 
-Welcome to my Github profile, Here you'll find a variety of open-source projects focusing on web3 technologies, front-end tools, personal portfolio websites, and automation experiments.
+Welcome to my Github profile, Here you'll find a variety of open-source projects focusing on web3 technologies, front-end tools, personal portfolio websites, and passion projects / experiments.
 
 *   🌍  I'm based in Sydney, Australia
-*   🖥️  See my portfolio at [Developer Portfolio](http://arthurvandelay.dev)
+*   🖥️  See my portfolio at [Developer Portfolio](http://arthurvandelay.dev) [under-constructed/depreciated]
 *   ✉️  You can contact me at [info@arthurvandelay.dev](mailto:info@arthurvandelay.dev)
-*   🤝  Need help with a web3 projects // check out [Vandelay Technologies](https://www.vandelaytechnologies.io)
+*   🤝  Need help with a web3 project // check out [Vandelay Technologies](https://www.vandelaytechnologies.io)
 
 ###  Skills 
 <p align="left">
