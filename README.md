@@ -1,10 +1,10 @@
-Art Vandelay
+Vandelay (DFB)
 ====================================================================================================================================
 
-Developer | Economist | Degenerate
+Developer | Economist | Investor
 ----------------------------------
 
-Welcome to my Github profile! Here you'll find a variety of open-source projects focusing on web3 technologies, front-end tools, personal portfolio websites, and automation experiments.
+Welcome to my Github profile, Here you'll find a variety of open-source projects focusing on web3 technologies, front-end tools, personal portfolio websites, and automation experiments.
 
 *   🌍  I'm based in Sydney, Australia
 *   🖥️  See my portfolio at [Developer Portfolio](http://arthurvandelay.dev)
