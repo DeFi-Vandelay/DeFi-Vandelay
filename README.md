@@ -1,6 +1,7 @@
-Name: Dave Barclay /or/. [Art Vandelay (@DeFi_Vandelay)] 
+Hi, I am David. You can call me Art Vandelay for short.
+@DeFi_Vandelay on the interwebernet.
 
-====================================================================================================================================
+----------------------------------
 
 Developer | Economist | Investor
 ----------------------------------
