@@ -1,4 +1,5 @@
-Vandelay (DFB)
+Name: Dave Barclay /or/. [Art Vandelay (@DeFi_Vandelay)] 
+
 ====================================================================================================================================
 
 Developer | Economist | Investor
