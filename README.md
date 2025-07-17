@@ -3,6 +3,9 @@ You can call me Art Vandelay for short.
 
 @DeFi_Vandelay on the interwebernet.
 
+Check out [Vandelay Technologies](https://www.vandelaytechnologies.io)
+
+
 ----------------------------------
 
 Developer | Economist | Investor
