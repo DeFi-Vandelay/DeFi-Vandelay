@@ -11,7 +11,7 @@ Check out [Vandelay Tech's Github](https://github.com/Vandelay-Technologies)
 Developer | Economist | Investor
 ----------------------------------
 
-Welcome to my Github profile, Here you'll find a variety of open-source projects focusing on web3 technologies, front-end tools, personal portfolio websites, and passion projects / experiments.
+Welcome to my Github profile, Here you'll find a variety of open-source projects focusing on AI tools, Web3 dApps, front-end tools, personal portfolio website/s, and passion projects / experiments.
 
 *   🌍  I'm based in Sydney, Australia
 *   🖥️  See my portfolio at [Developer Portfolio](http://arthurvandelay.dev) [under-constructed/depreciated]
