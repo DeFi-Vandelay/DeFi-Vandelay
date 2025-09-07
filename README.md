@@ -1,9 +1,6 @@
 ##  Hi, I am David.
-You can call me Art Vandelay for short.
 
-@DeFi_Vandelay on the interwebernet.
-
-Check out [Vandelay Tech's Github](https://github.com/Vandelay-Technologies)
+Check out [VIX-Labs's Github](https://github.com/vix-labs)
 
 
 ----------------------------------
